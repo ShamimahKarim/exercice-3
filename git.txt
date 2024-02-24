@@ -1,0 +1,1 @@
+pour melanger les deux branches : git merge design -m "merge n°1"

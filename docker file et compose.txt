@@ -1,0 +1,12 @@
+la difference entre docker file et docker compose:
+
+1)docker file
+-construction des images
+-docker build -t demo: test
+-verifier les images crées :
+*docker images 
+ docker images ls #lister les images
+-docker rmi nom_image/id_image
+-docker run nom_image -p8080:9090
+-docker ps -a
+-docker inspect nom_conteneur

@@ -1,0 +1,10 @@
+docker 
+se divise en 3 parties:
+build,pull,run
+ra ijery conteneur : docker ps
+ra ijery image: docker images
+docker run []
+docker pull[]
+port machine: port conteneur
+docker run -d -p 8080;
+-d : arriere plan
